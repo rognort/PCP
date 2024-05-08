@@ -1,0 +1,32 @@
+bbbb aabba
+bb aaa
+bbbbb bbbaa
+bbaaa bb
+a bbaaa
+
+bb aaa
+bbaaa bb
+bbab bbabb
+baba bbaab
+b bbbb
+
+bbabb abbab
+bba b
+b babb
+bbaab abab
+a babb
+
+bb bbbab
+abbb bba
+bbbb ba
+babb bb
+
+a bbab
+babbb bab
+b a
+abb b
+bbb bbba
+
+abaaba a
+aa aaaaa
+aaaaa baaba

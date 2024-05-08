@@ -1,0 +1,34 @@
+prekrocena sirka
+[('bbbb', 'aabba'), ('bb', 'aaa'), ('bbbbb', 'bbbaa'), ('bbaaa', 'bb'), ('a', 'bbaaa')]
+0:00:03.624395
+
+prekrocena sirka
+[('bb', 'aaa'), ('bbaaa', 'bb'), ('bbab', 'bbabb'), ('baba', 'bbaab'), ('b', 'bbbb')]
+0:00:02.334516
+
+prekrocena sirka
+[('bbabb', 'abbab'), ('bba', 'b'), ('b', 'babb'), ('bbaab', 'abab'), ('a', 'babb')]
+0:00:02.947905
+
+
+[('bb', 'bbbab'), ('abbb', 'bba'), ('bbbb', 'ba'), ('babb', 'bb')]
+141124411412144411112412441443411212444411114124121441444312114444121111444124121114414441243121344444421311442243422424
+len result 120
+correct
+0:00:00.036009
+
+
+[('a', 'bbab'), ('babbb', 'bab'), ('b', 'a'), ('abb', 'b'), ('bbb', 'bbba')]
+21531415231313413412124434424
+len result 29
+correct
+0:00:01.558013
+
+
+[('abaaba', 'a'), ('aa', 'aaaaa'), ('aaaaa', 'baaba')]
+131232211313123213223212213232222
+len result 33
+correct
+0:00:00.585740
+
+0:00:11.145569

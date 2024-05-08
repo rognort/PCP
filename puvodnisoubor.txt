@@ -1,0 +1,104 @@
+a aab
+b a
+aabaab b
+
+a abb
+b a
+abbaaa a
+
+a abb
+b a
+abba a
+
+a abb
+b aa
+bbabba a
+
+a babbaa
+a b
+ababb a
+
+a babaa
+a b
+abab a
+
+a ab
+b aa
+abaaa a
+
+a ababa
+a b
+ab a
+
+ababa a
+a ab
+ba aab
+
+bbbb aabba
+bb aaa
+bbbbb bbbaa
+bbaaa bb
+a bbaaa
+
+bb aaa
+bbaaa bb
+bbab bbabb
+baba bbaab
+b bbbb
+
+bbabb abbab
+bba b
+b babb
+bbaab abab
+a babb
+
+aaa ba
+aababb aa
+baaaa bba
+aaaa aaaaa
+
+aabaaa bbbbbb
+bbbbb bbbb
+a aabaaa
+ab aaaaa
+
+bb bbbab
+abbb bba
+bbbb ba
+babb bb
+
+aabbb abbbb
+baaaa aa
+bbbab aab
+abaab abb
+bb bbb
+bbb ba
+bbab aaaaa
+
+baaaa aa
+ba aaaa
+aaa aaaba
+abaaa aabaa
+
+bbab bbbab
+bb bbbba
+bbabb ba
+babb bb
+
+babba bbbbbb
+babbab b
+bb abbabb
+
+a bbab
+babbb bab
+b a
+abb b
+bbb bbba
+
+aaaaa aaaa
+b abbbbb
+b aaaaaa
+
+abaaba a
+aa aaaaa
+aaaaa baaba
